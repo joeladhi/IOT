@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pendeteksi Kebakaran</string>
+    <string name="sistem">Sistem</string>
+    <string name="buzzer">Buzzer Status</string>
+    <string name="param_ruangan">Parameter Suhu Ruangan</string>
+    <string name="param_objek">Parameter Suhu Objek</string>
+    <string name="s_ruangan">Suhu Ruangan</string>
+    <string name="s_objek">Suhu Objek</string>
+</resources>
